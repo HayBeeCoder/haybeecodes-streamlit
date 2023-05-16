@@ -118,7 +118,7 @@ def main():
         The metric for evaluation will be f1-score
         """)
 
-          st.markdown("Please find GitHub repository link of project: [Click Here](https://github.com/avikumart/Road-Traffic-Severity-Classification-Project)")          
+        st.markdown("Please find GitHub repository link of project: [Click Here](https://github.com/avikumart/Road-Traffic-Severity-Classification-Project)")          
     
 
 # run the main function        
